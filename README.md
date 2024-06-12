@@ -18,7 +18,7 @@ To set up this project on your local machine, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using:
    ```bash
-   git clone [URL-to-repository]
+   gh repo clone BuddhikaGeasman/frontend-essentials-2024
    ```
 2. Install Dependencies: Navigate into the project directory and run the following command to install the necessary dependencies:
     ```bash
