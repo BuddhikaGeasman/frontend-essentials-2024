@@ -1,4 +1,5 @@
-describe("Greeting Function", function() {
+import { describe, it, expect  } from 'vitest'
+describe("Greeting Function", function () {
     it("should use the default greeting when none is provided", function() {
         expect(greet('Emily')).toBe("Hello Emily");
     });
